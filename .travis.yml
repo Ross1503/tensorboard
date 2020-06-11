@@ -3,6 +3,10 @@ language: python
 python:
   - "3.6"
 
+arch:
+  - amd64
+  - arm64
+
 branches:
   only:
     - master
